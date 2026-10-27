@@ -17,6 +17,9 @@ JUnit-5-Test für den Standardfall.
 | `weitere-aufgaben/1-Analyser` | Zahl mit exakter Häufigkeit | `getNumberWithExactFrequency(List<Integer>, int)` |
 | `weitere-aufgaben/2-TreeNode` | Summe aller Knoten | `calcSum()` |
 | `weitere-aufgaben/3-Transformer` | Umdrehen und zyklisch verschieben | `reverseAndShift(int[], int)` |
+| `weitere-aufgaben-2/1-Analyser` | Zahl mit Häufigkeit am nächsten am Ziel | `getNumberClosestToTargetFrequency(int[], int)` |
+| `weitere-aufgaben-2/2-TreeNode` | Summe der geraden Knotenwerte | `sumOfEven()` |
+| `weitere-aufgaben-2/3-Transformer` | Kumulative Summen | `toCumulativeSums(int[])` |
 
 `beispielaufgaben/` sind die offiziellen Beispielaufgaben aus dem Kurs.
 
