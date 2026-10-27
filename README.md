@@ -22,6 +22,9 @@ selbst üben will, öffnet `Klausuraufgaben - Darian/aufgaben/`.
 | `Klausuraufgaben - Darian/aufgaben/1-Analyser` | Zahl mit Häufigkeit am nächsten am Ziel | `getNumberClosestToTargetFrequency(int[], int)` |
 | `Klausuraufgaben - Darian/aufgaben/2-TreeNode` | Summe der geraden Knotenwerte | `sumOfEven()` |
 | `Klausuraufgaben - Darian/aufgaben/3-Transformer` | Kumulative Summen | `toCumulativeSums(int[])` |
+| `weitere-aufgaben-2/1-Analyser` | Seltenste Zahl, bei Gleichstand die größte | `getRarestNumberTieBreakLargest(Iterator<Integer>)` |
+| `weitere-aufgaben-2/2-TreeNode` | Summe der Blattknoten | `sumOfLeaves()` |
+| `weitere-aufgaben-2/3-Transformer` | Jedes zweite Element ab Index 1 | `unzip(int[])` |
 
 `beispielaufgaben/` sind die offiziellen Beispielaufgaben aus dem Kurs.
 
