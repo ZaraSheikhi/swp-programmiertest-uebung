@@ -3,9 +3,11 @@
 Übungsaufgaben zur Vorbereitung auf den Programmiertest im Software-Projekt
 (Java mit BlueJ, 3 Aufgaben in 45 Minuten, je 10 Punkte, bestanden ab 15 Punkten).
 
-**Alle Aufgaben sind ohne Lösungen.** In jeder Aufgabe ist eine Methode leer,
-die Aufgabenstellung steht im Javadoc der Klasse. Dazu gibt es jeweils einen
-JUnit-5-Test für den Standardfall.
+In jeder Aufgabe ist eine Methode leer, die Aufgabenstellung steht im Javadoc
+der Klasse. Dazu gibt es jeweils einen JUnit-5-Test für den Standardfall.
+
+**Lösungen** gibt es nur in `Klausuraufgaben - Darian/loesungen/`. Wer erst
+selbst üben will, öffnet `Klausuraufgaben - Darian/aufgaben/`.
 
 ## Aufgaben
 
@@ -17,9 +19,9 @@ JUnit-5-Test für den Standardfall.
 | `weitere-aufgaben/1-Analyser` | Zahl mit exakter Häufigkeit | `getNumberWithExactFrequency(List<Integer>, int)` |
 | `weitere-aufgaben/2-TreeNode` | Summe aller Knoten | `calcSum()` |
 | `weitere-aufgaben/3-Transformer` | Umdrehen und zyklisch verschieben | `reverseAndShift(int[], int)` |
-| `weitere-aufgaben-2/1-Analyser` | Zahl mit Häufigkeit am nächsten am Ziel | `getNumberClosestToTargetFrequency(int[], int)` |
-| `weitere-aufgaben-2/2-TreeNode` | Summe der geraden Knotenwerte | `sumOfEven()` |
-| `weitere-aufgaben-2/3-Transformer` | Kumulative Summen | `toCumulativeSums(int[])` |
+| `Klausuraufgaben - Darian/aufgaben/1-Analyser` | Zahl mit Häufigkeit am nächsten am Ziel | `getNumberClosestToTargetFrequency(int[], int)` |
+| `Klausuraufgaben - Darian/aufgaben/2-TreeNode` | Summe der geraden Knotenwerte | `sumOfEven()` |
+| `Klausuraufgaben - Darian/aufgaben/3-Transformer` | Kumulative Summen | `toCumulativeSums(int[])` |
 
 `beispielaufgaben/` sind die offiziellen Beispielaufgaben aus dem Kurs.
 
